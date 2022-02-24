@@ -1,0 +1,81 @@
+body{
+    font-family: Poppins;
+    background-color: #F3F1FF;
+}
+.bg-1{
+    background-color: #562EFF;
+}
+.logo{
+    width: 40px;
+}
+.top{
+    color:#562EFF ;
+    
+}
+header{
+    margin-bottom: 30px;
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.ttop img{
+    width: 56px;
+}
+.ttop{
+    padding-left: 40px;
+}
+.blog-1{
+    width: 177px;
+    height: 150px;
+}
+.text-color{
+    color: gray;
+}
+.ttop1{
+    padding-left: 30px;
+}
+.last-topic{
+    background-color: white;
+}
+
+.text-c{
+    color: #ED6B4F;
+}
+.star{
+    width: 15px;
+}
+.opacity{
+    filter: brightness(0);
+    opacity: 10%;
+}
+/* navbar */
+.navbar-light .navbar-toggler-icon{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 0, 0, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.navbar-light .navbar-toggler{
+    border: 1px solid red;
+}
+.clock{
+    width: 20px;
+    
+}
+.time{
+    width: 94.83px;
+    height: 29.38px;
+    padding: 3px;
+    color: #FF4A60;
+    background-color: #FFE4E8;
+    border-radius: 15px;
+    text-align: center;
+}
+.time1{
+    width: 94.83px;
+    height: 29.38px;
+    padding: 3px;
+    color: #ED6B4F;
+    background-color: #FEE5DF;
+    border-radius: 15px;
+    text-align: center;
+}
